@@ -1,2 +1,15 @@
 # public_dns_list
-known public dns list  ips and domains
+
+Known public dns list  ips and domains
+
+
+# original 
+
+https://kb.adguard.com/en/general/dns-providers#adguard-dns
+
+
+
+# update frequency 
+
+1'th day of every month. 
+

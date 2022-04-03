@@ -11,13 +11,11 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-
-      - name : pull and update lists
+      - name : update lists
         shell: bash
         run : |
-          git clone https://github.com/takuya/public_dns_list.git
           bash update-known-public-dns.sh
-      - name: Update API docs
+      - name: push updated lists
         uses: stefanzweifel/git-auto-commit-action@v4.2.0
         with:
           commit_message: update-lists

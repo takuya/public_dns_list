@@ -1,0 +1,2 @@
+quic://dandelionsprout.asuscomm.com:48582
+quic://doh.tiar.app

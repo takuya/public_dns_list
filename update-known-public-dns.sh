@@ -7,7 +7,6 @@ function get_known_dns_list(){
 function main() {
 
   list=$(get_known_dns_list | sort | uniq)
-  echo "$list"
   echo "$list" | xargs -0 | grep 'tls://' | tee dns-list-dot.txt
   echo "$list" | xargs -0 | grep 'https://' | tee dns-list-doh.txt
   echo "$list" | xargs -0 | grep -P '^\d+\.\d+\.\d+\.\d+' | sort -t . -n | tee dns-list-ipv4.txt

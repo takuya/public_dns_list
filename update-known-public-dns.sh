@@ -2,16 +2,9 @@
 
 
 function get_known_dns_list(){
-  alias xpath="xmllint --html --xpath"
-  type xpath
-  curl -s 'https://kb.adguard.com/en/general/dns-providers#adguard-dns' | xpath '//code/text()' - 2>/dev/null
+  curl -s 'https://kb.adguard.com/en/general/dns-providers#adguard-dns' | xmllint --html --xpath '//code/text()' - 2>/dev/null
 }
 function main() {
-
-  which sort
-  which xmllint
-  which uniq
-  echo start
 
   list=$(get_known_dns_list | sort | uniq)
   echo "$list"

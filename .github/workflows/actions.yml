@@ -15,6 +15,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-utils
+          curl -s 'https://kb.adguard.com/en/general/dns-providers#adguard-dns' | xmllint --html --xpath '//code/text()' - 2>/dev/null
       - name : update lists
         shell: bash
         run : |

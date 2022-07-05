@@ -1,0 +1,5 @@
+quic://dandelionsprout.asuscomm.com:48582
+quic://dns-family.adguard.com
+quic://dns-unfiltered.adguard.com
+quic://dns.adguard.com
+quic://doh.tiar.app

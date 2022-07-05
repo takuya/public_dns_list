@@ -2,7 +2,8 @@
 
 
 function get_known_dns_list(){
-  curl -s 'https://kb.adguard.com/en/general/dns-providers#adguard-dns' | xmllint --html --xpath '//code/text()' - 2>/dev/null
+  curl -s -L 'https://kb.adguard.com/en/general/dns-providers#adguard-dns' \
+  | xmllint --html --xpath '//code/text()' - 2>/dev/null
 }
 function main() {
 

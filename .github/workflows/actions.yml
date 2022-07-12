@@ -6,7 +6,7 @@ on:
       - master
       - develop
   schedule:
-    - cron:  '5 5 1 * *'
+    - cron:  '5 5 */7 * *'
 
 jobs:
   update_and_push:

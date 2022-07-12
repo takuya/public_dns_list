@@ -5,8 +5,7 @@ Known public dns list  ips and domains
 
 # original 
 
-https://kb.adguard.com/en/general/dns-providers#adguard-dns
-
+https://adguard-dns.io/kb/general/dns-providers/#adguard-dns
 
 
 # update frequency 

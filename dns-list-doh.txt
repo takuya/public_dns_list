@@ -1,5 +1,5 @@
 https://adblock.doh.mullvad.net/dns-query
-https://asia.dnscepat.id/dns-query
+https://anycast.dns.nextdns.io
 https://basic.rethinkdns.com/
 https://blitz.ahadns.com
 https://blitz.ahadns.com/1:1
@@ -17,7 +17,9 @@ https://dns.comss.one/dns-query
 https://dns.decloudus.com/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
 https://dns.east.comss.one/dns-query
+https://dns.futuredns.me/dns-query
 https://dns.google/dns-query
+https://dns.nextdns.io
 https://dns.oszx.co/dns-query
 https://dns.pub/dns-query
 https://dns.pumplex.com/dns-query
@@ -32,7 +34,6 @@ https://doh-fi.blahdns.com/dns-query
 https://doh-jp.blahdns.com/dns-query
 https://doh.360.cn/dns-query
 https://doh.applied-privacy.net/query
-https://doh.au.ahadns.net/dns-query
 https://doh.chi.ahadns.net/dns-query
 https://doh.cleanbrowsing.org/doh/adult-filter/
 https://doh.cleanbrowsing.org/doh/family-filter/
@@ -56,7 +57,6 @@ https://doh.pl.ahadns.net/dns-query
 https://doh.pub/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
-https://eropa.dnscepat.id/dns-query
 https://family.canadianshield.cira.ca/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://fi.doh.dns.snopyta.org/dns-query

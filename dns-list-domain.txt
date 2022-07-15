@@ -23,7 +23,7 @@
 adblock.doh.mullvad.net
 adult-filter-dns.cleanbrowsing.org
 anycast.censurfridns.dk
-asia.dnscepat.id
+anycast.dns.nextdns.io
 blitz.ahadns.com
 cleanbrowsing.org
 dns-doh.dnsforfamily.com
@@ -41,6 +41,7 @@ dns.comss.one
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.east.comss.one
+dns.futuredns.me
 dns.google
 dns.larsdebruin.net
 dns.neutopia.org
@@ -62,7 +63,6 @@ doh-de.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.360.cn
-doh.au.ahadns.net
 doh.chi.ahadns.net
 doh.dns.sb
 doh.dnslify.com
@@ -86,7 +86,6 @@ dot-de.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.360.cn
-dot.au.ahadns.net
 dot.chi.ahadns.net
 dot.es.ahadns.net
 dot.ffmuc.net
@@ -103,7 +102,6 @@ dot.seby.io
 dot.securedns.eu
 dot.tiar.app
 dot1.applied-privacy.net
-eropa.dnscepat.id
 family-filter-dns.cleanbrowsing.org
 family.canadianshield.cira.ca
 family.cloudflare-dns.com

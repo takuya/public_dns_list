@@ -28,10 +28,8 @@ blitz.ahadns.com
 cleanbrowsing.org
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
-dns-family.adguard.com
 dns-tls.bitwiseshift.net
-dns-unfiltered.adguard.com
-dns.adguard.com
+dns.adguard-dns.com
 dns.alidns.com
 dns.arapurayil.com
 dns.cfiec.net
@@ -103,6 +101,7 @@ dot.securedns.eu
 dot.tiar.app
 dot1.applied-privacy.net
 family-filter-dns.cleanbrowsing.org
+family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 fi.doh.dns.snopyta.org
@@ -127,4 +126,5 @@ resolver-eu.lelux.fi
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 tls-dns-u.odvr.dns-oarc.net
+unfiltered.adguard-dns.com
 unicast.censurfridns.dk

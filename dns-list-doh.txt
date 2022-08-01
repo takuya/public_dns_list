@@ -6,9 +6,7 @@ https://blitz.ahadns.com/1:1
 https://blitz.ahadns.com/1:1.12
 https://dandelionsprout.asuscomm.com:2501/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
-https://dns-family.adguard.com/dns-query
-https://dns-unfiltered.adguard.com/dns-query
-https://dns.adguard.com/dns-query
+https://dns.adguard-dns.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.arapurayil.com/dns-query
 https://dns.cfiec.net/dns-query
@@ -57,6 +55,7 @@ https://doh.pl.ahadns.net/dns-query
 https://doh.pub/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
+https://family.adguard-dns.com/dns-query
 https://family.canadianshield.cira.ca/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://fi.doh.dns.snopyta.org/dns-query
@@ -73,3 +72,4 @@ https://protected.canadianshield.cira.ca/dns-query
 https://public.dns.iij.jp/dns-query
 https://resolver-eu.lelux.fi/dns-query
 https://security.cloudflare-dns.com/dns-query
+https://unfiltered.adguard-dns.com/dns-query

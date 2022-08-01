@@ -7,10 +7,8 @@ tls://anycast.censurfridns.dk
 tls://anycast.dns.nextdns.io
 tls://dandelionsprout.asuscomm.com:853
 tls://dns-dot.dnsforfamily.com
-tls://dns-family.adguard.com
 tls://dns-tls.bitwiseshift.net
-tls://dns-unfiltered.adguard.com
-tls://dns.adguard.com
+tls://dns.adguard-dns.com
 tls://dns.alidns.com
 tls://dns.bitgeek.in 
 tls://dns.cfiec.net
@@ -56,6 +54,7 @@ tls://dot.securedns.eu
 tls://dot.tiar.app
 tls://dot1.applied-privacy.net
 tls://family-filter-dns.cleanbrowsing.org
+tls://family.adguard-dns.com
 tls://family.cloudflare-dns.com
 tls://fi.dot.dns.snopyta.org
 tls://getdnsapi.net
@@ -76,4 +75,5 @@ tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com
+tls://unfiltered.adguard-dns.com
 tls://unicast.censurfridns.dk

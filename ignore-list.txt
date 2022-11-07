@@ -1,0 +1,3 @@
+dns1.pumplex.com
+dns2.pumplex.com
+pumplex.com

@@ -25,6 +25,6 @@ jobs:
           date -I > last-update.txt
           date -I >> update.txt
       - name: push updated lists
-        uses: stefanzweifel/git-auto-commit-action@v4.2.0
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: update-lists

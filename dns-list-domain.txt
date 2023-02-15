@@ -115,6 +115,7 @@ max.rethinkdns.com
 ns1.dnsprivacy.at
 ns2.dnsprivacy.at
 odvr.nic.cz
+p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com

@@ -59,6 +59,7 @@ https://family.adguard-dns.com/dns-query
 https://family.canadianshield.cira.ca/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://fi.doh.dns.snopyta.org/dns-query
+https://freedns.controld.com/p0
 https://freedns.controld.com/p1
 https://freedns.controld.com/p2
 https://freedns.controld.com/p3

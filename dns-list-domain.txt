@@ -3,7 +3,6 @@
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.captnemo.in
 2.dnscrypt-cert.dns.arapurayil.com
-2.dnscrypt-cert.dns.comss.one
 2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.dns.tiar.app
 2.dnscrypt-cert.dnsrec.meo.ws

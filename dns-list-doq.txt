@@ -1,5 +1,7 @@
 quic://dandelionsprout.asuscomm.com:48582
 quic://dns.adguard-dns.com
+quic://dns.comss.one:784
+quic://dns.east.comss.one
 quic://dns.futuredns.me
 quic://doh.tiar.app
 quic://family.adguard-dns.com

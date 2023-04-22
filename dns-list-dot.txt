@@ -55,6 +55,7 @@ tls://dot.tiar.app
 tls://dot1.applied-privacy.net
 tls://family-filter-dns.cleanbrowsing.org
 tls://family.adguard-dns.com
+tls://family.canadianshield.cira.ca
 tls://family.cloudflare-dns.com
 tls://fi.dot.dns.snopyta.org
 tls://getdnsapi.net
@@ -69,7 +70,6 @@ tls://p1.freedns.controld.com
 tls://p2.freedns.controld.com
 tls://p3.freedns.controld.com
 tls://privacydns.go6lab.si
-tls://private.canadianshield.cira.ca
 tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi

@@ -70,6 +70,7 @@ tls://p1.freedns.controld.com
 tls://p2.freedns.controld.com
 tls://p3.freedns.controld.com
 tls://privacydns.go6lab.si
+tls://private.canadianshield.cira.ca
 tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi

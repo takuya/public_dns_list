@@ -5,4 +5,5 @@ quic://dns.east.comss.one
 quic://dns.futuredns.me
 quic://doh.tiar.app
 quic://family.adguard-dns.com
+quic://ibksturm.synology.me
 quic://unfiltered.adguard-dns.com

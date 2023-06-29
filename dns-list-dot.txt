@@ -10,7 +10,7 @@ tls://dns-dot.dnsforfamily.com
 tls://dns-tls.bitwiseshift.net
 tls://dns.adguard-dns.com
 tls://dns.alidns.com
-tls://dns.bitgeek.in 
+tls://dns.bitgeek.in
 tls://dns.cfiec.net
 tls://dns.cmrg.net
 tls://dns.comss.one

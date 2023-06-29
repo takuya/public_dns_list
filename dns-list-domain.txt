@@ -31,6 +31,7 @@ dns-tls.bitwiseshift.net
 dns.adguard-dns.com
 dns.alidns.com
 dns.arapurayil.com
+dns.bitgeek.in
 dns.cfiec.net
 dns.cloudflare.com
 dns.cmrg.net

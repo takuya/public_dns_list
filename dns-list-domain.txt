@@ -19,6 +19,7 @@
 2.dnscrypt.default.ns1.adguard.com
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
+ada.openbld.net
 adblock.doh.mullvad.net
 adult-filter-dns.cleanbrowsing.org
 anycast.censurfridns.dk
@@ -39,7 +40,6 @@ dns.comss.one
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.east.comss.one
-dns.futuredns.me
 dns.google
 dns.larsdebruin.net
 dns.neutopia.org
@@ -104,8 +104,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-fi.doh.dns.snopyta.org
-fi.dot.dns.snopyta.org
 getdnsapi.net
 ibksturm.synology.me
 jp.tiar.app
@@ -124,6 +122,7 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 public.dns.iij.jp
 resolver-eu.lelux.fi
+ric.openbld.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 tls-dns-u.odvr.dns-oarc.net

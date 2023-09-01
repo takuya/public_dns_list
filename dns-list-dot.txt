@@ -1,6 +1,7 @@
 tls://101.101.101.101
 tls://185.222.222.222
 tls://1dot1dot1dot1.cloudflare-dns.com
+tls://ada.openbld.net
 tls://adblock.doh.mullvad.net
 tls://adult-filter-dns.cleanbrowsing.org
 tls://anycast.censurfridns.dk
@@ -17,7 +18,6 @@ tls://dns.comss.one
 tls://dns.decloudus.com
 tls://dns.digitale-gesellschaft.ch
 tls://dns.east.comss.one
-tls://dns.futuredns.me
 tls://dns.google
 tls://dns.larsdebruin.net
 tls://dns.neutopia.org
@@ -57,7 +57,6 @@ tls://family-filter-dns.cleanbrowsing.org
 tls://family.adguard-dns.com
 tls://family.canadianshield.cira.ca
 tls://family.cloudflare-dns.com
-tls://fi.dot.dns.snopyta.org
 tls://getdnsapi.net
 tls://ibksturm.synology.me
 tls://jp.tiar.app
@@ -74,6 +73,7 @@ tls://private.canadianshield.cira.ca
 tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi
+tls://ric.openbld.net
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com
 tls://unfiltered.adguard-dns.com

@@ -6,3 +6,4 @@ quic://doh.tiar.app
 quic://family.adguard-dns.com
 quic://ibksturm.synology.me
 quic://unfiltered.adguard-dns.com
+quic://zero.dns0.eu

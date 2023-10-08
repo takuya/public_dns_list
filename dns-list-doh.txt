@@ -74,3 +74,4 @@ https://resolver-eu.lelux.fi/dns-query
 https://ric.openbld.net/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://unfiltered.adguard-dns.com/dns-query
+https://zero.dns0.eu/

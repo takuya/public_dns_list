@@ -1,5 +1,6 @@
 https://ada.openbld.net/dns-query
 https://adblock.doh.mullvad.net/dns-query
+https://antivirus.bebasid.com/dns-query
 https://anycast.dns.nextdns.io
 https://basic.rethinkdns.com/
 https://blitz.ahadns.com
@@ -10,11 +11,14 @@ https://dns-doh.dnsforfamily.com/dns-query
 https://dns.adguard-dns.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.arapurayil.com/dns-query
+https://dns.bebasid.com/dns-query
+https://dns.bebasid.com/unfiltered
 https://dns.cfiec.net/dns-query
 https://dns.cloudflare.com/dns-query
 https://dns.comss.one/dns-query
 https://dns.decloudus.com/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
+https://dns.dnswarden.com/uncensored
 https://dns.east.comss.one/dns-query
 https://dns.google/dns-query
 https://dns.nextdns.io
@@ -27,9 +31,6 @@ https://dns.twnic.tw/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dnsforge.de/dns-query
-https://doh-de.blahdns.com/dns-query
-https://doh-fi.blahdns.com/dns-query
-https://doh-jp.blahdns.com/dns-query
 https://doh.360.cn/dns-query
 https://doh.applied-privacy.net/query
 https://doh.chi.ahadns.net/dns-query
@@ -37,7 +38,6 @@ https://doh.cleanbrowsing.org/doh/adult-filter/
 https://doh.cleanbrowsing.org/doh/family-filter/
 https://doh.cleanbrowsing.org/doh/security-filter/
 https://doh.dns.sb/dns-query
-https://doh.dnslify.com/dns-query
 https://doh.es.ahadns.net/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://doh.ffmuc.net/dns-query
@@ -63,6 +63,7 @@ https://freedns.controld.com/p1
 https://freedns.controld.com/p2
 https://freedns.controld.com/p3
 https://ibksturm.synology.me/dns-query
+https://internetsehat.bebasid.com/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://kaitain.restena.lu/dns-query

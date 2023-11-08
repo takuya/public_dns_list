@@ -4,6 +4,7 @@ tls://1dot1dot1dot1.cloudflare-dns.com
 tls://ada.openbld.net
 tls://adblock.doh.mullvad.net
 tls://adult-filter-dns.cleanbrowsing.org
+tls://antivirus.bebasid.com:853
 tls://anycast.censurfridns.dk
 tls://anycast.dns.nextdns.io
 tls://dandelionsprout.asuscomm.com:853
@@ -11,6 +12,7 @@ tls://dns-dot.dnsforfamily.com
 tls://dns-tls.bitwiseshift.net
 tls://dns.adguard-dns.com
 tls://dns.alidns.com
+tls://dns.bebasid.com:853
 tls://dns.bitgeek.in
 tls://dns.cfiec.net
 tls://dns.cmrg.net
@@ -31,11 +33,7 @@ tls://dns11.quad9.net
 tls://dnsforge.de
 tls://dnsovertls.sinodun.com
 tls://dnsovertls1.sinodun.com
-tls://doh.dnslify.com
 tls://doh.mullvad.net
-tls://dot-de.blahdns.com
-tls://dot-fi.blahdns.com
-tls://dot-jp.blahdns.com
 tls://dot.360.cn
 tls://dot.chi.ahadns.net
 tls://dot.es.ahadns.net
@@ -59,6 +57,7 @@ tls://family.canadianshield.cira.ca
 tls://family.cloudflare-dns.com
 tls://getdnsapi.net
 tls://ibksturm.synology.me
+tls://internetsehat.bebasid.com:853
 tls://jp.tiar.app
 tls://kaitain.restena.lu
 tls://max.rethinkdns.com
@@ -77,5 +76,6 @@ tls://ric.openbld.net
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com
 tls://unfiltered.adguard-dns.com
+tls://unfiltered.dns.bebasid.com:853
 tls://unicast.censurfridns.dk
 tls://zero.dns0.eu

@@ -5,5 +5,9 @@ quic://dns.east.comss.one
 quic://doh.tiar.app
 quic://family.adguard-dns.com
 quic://ibksturm.synology.me
+quic://quic-antivirus.dns.bebasid.com:853
+quic://quic-sehat.dns.bebasid.com:853
+quic://quic.dns.bebasid.com:853
 quic://unfiltered.adguard-dns.com
+quic://unfiltered.dns.bebasid.com:853
 quic://zero.dns0.eu

@@ -24,6 +24,7 @@ tls://dns.google
 tls://dns.larsdebruin.net
 tls://dns.neutopia.org
 tls://dns.nextdns.io
+tls://dns.opendns.com
 tls://dns.oszx.co
 tls://dns.pumplex.com
 tls://dns.quad9.net
@@ -55,6 +56,7 @@ tls://family-filter-dns.cleanbrowsing.org
 tls://family.adguard-dns.com
 tls://family.canadianshield.cira.ca
 tls://family.cloudflare-dns.com
+tls://familyshield.opendns.com
 tls://getdnsapi.net
 tls://ibksturm.synology.me
 tls://internetsehat.bebasid.com:853
@@ -73,6 +75,7 @@ tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi
 tls://ric.openbld.net
+tls://sandbox.opendns.com
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com
 tls://unfiltered.adguard-dns.com

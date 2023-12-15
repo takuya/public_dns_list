@@ -49,6 +49,7 @@ dns.google
 dns.larsdebruin.net
 dns.neutopia.org
 dns.nextdns.io
+dns.opendns.com
 dns.oszx.co
 dns.pub
 dns.pumplex.com
@@ -79,6 +80,7 @@ doh.ny.ahadns.net
 doh.opendns.com
 doh.pl.ahadns.net
 doh.pub
+doh.sandbox.opendns.com
 doh.tiar.app
 doh.tiarap.org
 dot.360.cn
@@ -102,6 +104,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+familyshield.opendns.com
 getdnsapi.net
 ibksturm.synology.me
 internetsehat.bebasid.com
@@ -122,6 +125,7 @@ protected.canadianshield.cira.ca
 public.dns.iij.jp
 resolver-eu.lelux.fi
 ric.openbld.net
+sandbox.opendns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 tls-dns-u.odvr.dns-oarc.net

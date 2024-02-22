@@ -7,6 +7,7 @@ tls://adult-filter-dns.cleanbrowsing.org
 tls://antivirus.bebasid.com:853
 tls://anycast.censurfridns.dk
 tls://anycast.dns.nextdns.io
+tls://comss.dns.controld.com
 tls://dandelionsprout.asuscomm.com:853
 tls://dns-dot.dnsforfamily.com
 tls://dns-tls.bitwiseshift.net
@@ -16,10 +17,8 @@ tls://dns.bebasid.com:853
 tls://dns.bitgeek.in
 tls://dns.cfiec.net
 tls://dns.cmrg.net
-tls://dns.comss.one
 tls://dns.decloudus.com
 tls://dns.digitale-gesellschaft.ch
-tls://dns.east.comss.one
 tls://dns.google
 tls://dns.larsdebruin.net
 tls://dns.neutopia.org
@@ -36,17 +35,10 @@ tls://dnsovertls.sinodun.com
 tls://dnsovertls1.sinodun.com
 tls://doh.mullvad.net
 tls://dot.360.cn
-tls://dot.chi.ahadns.net
-tls://dot.es.ahadns.net
 tls://dot.ffmuc.net
-tls://dot.in.ahadns.net
-tls://dot.it.ahadns.net
 tls://dot.la.ahadns.net
 tls://dot.libredns.gr
 tls://dot.nl.ahadns.net
-tls://dot.no.ahadns.net
-tls://dot.ny.ahadns.net
-tls://dot.pl.ahadns.net
 tls://dot.pub
 tls://dot.seby.io
 tls://dot.securedns.eu
@@ -66,6 +58,7 @@ tls://max.rethinkdns.com
 tls://ns1.dnsprivacy.at
 tls://ns2.dnsprivacy.at
 tls://odvr.nic.cz
+tls://ordns.he.net
 tls://p1.freedns.controld.com
 tls://p2.freedns.controld.com
 tls://p3.freedns.controld.com

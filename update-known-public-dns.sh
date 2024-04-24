@@ -3,8 +3,15 @@
 
 function get_known_dns_list(){
   curl -s -L 'https://adguard-dns.io/kb/general/dns-providers#adguard-dns' \
-  | xmllint --html --xpath '//code/text()' - 2>/dev/null
+  | xmllint --html --xpath '//code/text()' - 2>/dev/null | sort | uniq
 }
+function list_to_ipv6() {
+  ignore="$(ignore_list)"
+  list_names="$( cat dns-list-domain.txt | grep -vE "${ignore}" )"
+  list_1=$( echo "${list_names[@]}" | xargs -P 10 -n 1 dig +short aaaa @1.1.1.1 | grep -vE '\.$' )
+  echo "$list_1" | sort
+}
+
 function list_to_ip(){
   ignore=$(ignore_list)
   list_names=$(cat  "$1" \
@@ -15,7 +22,7 @@ function list_to_ip(){
     | grep -vE "${ignore}"  \
   )
   list_1=$( echo "${list_names[@]}" \
-    | xargs -n 1 dig +short a \
+    | xargs -P 10 -n 1 dig +short a \
     | grep -v '[a-z]'
   )
   list_2=$( echo "${list_names[@]}" | xargs -n1 echo |  grep  -E '[0-9]{1,3}$')
@@ -39,7 +46,11 @@ function merge_ipv4_list() {
   dns_host_ips=$(cat dns-list-ipv4.txt| sed -E 's/:[0-9]{1,4}$//' )
 
   (echo "$doh_host_ips";echo "$dot_host_ips";echo "$dns_host_ips") | sort -V | uniq | tee public_dns_ip_list.txt
-
+}
+function merge_ipv6_list(){
+  ipv6_resolved="$(list_to_ipv6)"
+  ipv6_hosts="$( cat dns-list-ipv6.txt | grep -oP '[a-fA-F0-9:]+' | grep -vE '^:' )"
+  (echo "$ipv6_resolved";echo "$ipv6_hosts") | sort -V | uniq | tee public_dns_ipv6_list.txt
 }
 
 function main() {
@@ -52,14 +63,14 @@ function main() {
   echo "$list" | xargs -0 | grep 'quic://' | tee dns-list-doq.txt
   echo "$list" | xargs -0 | grep -P '^\d+\.\d+\.\d+\.\d+' | sort -t . -n | tee dns-list-ipv4.txt
   echo "$list" | xargs -0 | grep -P '^\[?[a-fA-F0-9:\]]+$' | sort -t :  -n | tee dns-list-ipv6.txt
-  echo "$list" | xargs -0 | grep -P '[a-z\.0-9]+\.[a-z]+(/dns-query)?$' \
-   | sed 's|/dns-query||' \
-   | sed -r 's%(https|tls|quic)://%%' \
-   | sort | uniq | tee dns-list-domain.txt
+  echo "$list" | xargs -0 | grep -P '[.]'\
+                          | sed -E -e 's|(https://)([^/:]+)(.*)|\2|; s#(quic://|tls://)(.+)#\2#; s|:[0-9]+$||' \
+                          | grep -P '[a-z]$' \
+                          | sort | uniq | tee dns-list-domain.txt
   #
   dos_to_ip
   merge_ipv4_list
-
+  merge_ipv6_list
 }
 
 

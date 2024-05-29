@@ -1,6 +1,6 @@
+0ms.dev
 1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.DeCloudUs-test
-2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.captnemo.in
 2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.bebasid.com
@@ -29,6 +29,7 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 basic.rethinkdns.com
 cleanbrowsing.org
+common.dot.dns.yandex.net
 comss.dns.controld.com
 dandelionsprout.asuscomm.com
 dns-doh.dnsforfamily.com
@@ -47,6 +48,7 @@ dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.dnswarden.com
 dns.google
+dns.jupitrdns.com
 dns.larsdebruin.net
 dns.neutopia.org
 dns.nextdns.io
@@ -94,6 +96,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dot.dns.yandex.net
 familyshield.opendns.com
 freedns.controld.com
 getdnsapi.net
@@ -119,6 +122,7 @@ protected.canadianshield.cira.ca
 public.dns.iij.jp
 resolver-eu.lelux.fi
 ric.openbld.net
+safe.dot.dns.yandex.net
 sandbox.opendns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com

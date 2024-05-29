@@ -1,7 +1,8 @@
-quic://comss.dns.controld.com:853
+quic://comss.dns.controld.com
 quic://dandelionsprout.asuscomm.com:48582
 quic://dns.adguard-dns.com
 quic://dns.alidns.com:853
+quic://dns.jupitrdns.com
 quic://doh.tiar.app
 quic://family.adguard-dns.com
 quic://ibksturm.synology.me

@@ -7,6 +7,7 @@ tls://adult-filter-dns.cleanbrowsing.org
 tls://antivirus.bebasid.com:853
 tls://anycast.censurfridns.dk
 tls://anycast.dns.nextdns.io
+tls://common.dot.dns.yandex.net
 tls://comss.dns.controld.com
 tls://dandelionsprout.asuscomm.com:853
 tls://dns-dot.dnsforfamily.com
@@ -20,6 +21,7 @@ tls://dns.cmrg.net
 tls://dns.decloudus.com
 tls://dns.digitale-gesellschaft.ch
 tls://dns.google
+tls://dns.jupitrdns.com
 tls://dns.larsdebruin.net
 tls://dns.neutopia.org
 tls://dns.nextdns.io
@@ -49,6 +51,7 @@ tls://family-filter-dns.cleanbrowsing.org
 tls://family.adguard-dns.com
 tls://family.canadianshield.cira.ca
 tls://family.cloudflare-dns.com
+tls://family.dot.dns.yandex.net
 tls://familyshield.opendns.com
 tls://getdnsapi.net
 tls://hagezi.dns.bebasid.com:853
@@ -71,6 +74,7 @@ tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi
 tls://ric.openbld.net
+tls://safe.dot.dns.yandex.net
 tls://sandbox.opendns.com
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com

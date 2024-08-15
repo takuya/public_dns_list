@@ -1,5 +1,4 @@
 0ms.dev
-1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.DeCloudUs-test
 2.dnscrypt-cert.captnemo.in
 2.dnscrypt-cert.dns.arapurayil.com
@@ -22,11 +21,13 @@
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
 ada.openbld.net
-adblock.doh.mullvad.net
+adblock.dns.mullvad.net
 adult-filter-dns.cleanbrowsing.org
+all.dns.mullvad.net
 antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
+base.dns.mullvad.net
 basic.rethinkdns.com
 cleanbrowsing.org
 common.dot.dns.yandex.net
@@ -50,6 +51,7 @@ dns.dnswarden.com
 dns.google
 dns.jupitrdns.com
 dns.larsdebruin.net
+dns.mullvad.net
 dns.neutopia.org
 dns.nextdns.io
 dns.opendns.com
@@ -74,7 +76,6 @@ doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.la.ahadns.net
 doh.libredns.gr
-doh.mullvad.net
 doh.nl.ahadns.net
 doh.opendns.com
 doh.pub
@@ -87,15 +88,18 @@ dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
 dot.pub
+dot.sb
 dot.seby.io
 dot.securedns.eu
 dot.tiar.app
 dot1.applied-privacy.net
+extended.dns.mullvad.net
 family-adblock.bebasid.com
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.mullvad.net
 family.dot.dns.yandex.net
 familyshield.opendns.com
 freedns.controld.com
@@ -111,6 +115,7 @@ ns1.dnsprivacy.at
 ns2.dnsprivacy.at
 odvr.nic.cz
 oisd.dns.bebasid.com
+one.one.one.one
 ordns.he.net
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -122,6 +127,7 @@ protected.canadianshield.cira.ca
 public.dns.iij.jp
 resolver-eu.lelux.fi
 ric.openbld.net
+robin.techomespace.com
 safe.dot.dns.yandex.net
 sandbox.opendns.com
 security-filter-dns.cleanbrowsing.org

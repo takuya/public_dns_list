@@ -36,6 +36,7 @@ dandelionsprout.asuscomm.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-tls.bitwiseshift.net
+dns-tls.qis.io
 dns.adguard-dns.com
 dns.alidns.com
 dns.arapurayil.com
@@ -51,6 +52,8 @@ dns.dnswarden.com
 dns.google
 dns.jupitrdns.com
 dns.larsdebruin.net
+dns.marbledfennec.net
+dns.momou.ch
 dns.mullvad.net
 dns.neutopia.org
 dns.nextdns.io
@@ -59,6 +62,8 @@ dns.oszx.co
 dns.pub
 dns.pumplex.com
 dns.quad9.net
+dns.rabbitdns.org
+dns.seia.io
 dns.switch.ch
 dns.twnic.tw
 dns10.quad9.net
@@ -78,7 +83,7 @@ doh.la.ahadns.net
 doh.libredns.gr
 doh.nl.ahadns.net
 doh.opendns.com
-doh.pub
+doh.qis.io
 doh.sandbox.opendns.com
 doh.tiar.app
 doh.tiarap.org
@@ -101,6 +106,7 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
+family.rabbitdns.org
 familyshield.opendns.com
 freedns.controld.com
 getdnsapi.net
@@ -110,6 +116,7 @@ internetsehat.bebasid.com
 jp.tiar.app
 jp.tiarap.org
 kaitain.restena.lu
+kids.dns.momou.ch
 max.rethinkdns.com
 ns1.dnsprivacy.at
 ns2.dnsprivacy.at
@@ -127,15 +134,18 @@ protected.canadianshield.cira.ca
 public.dns.iij.jp
 resolver-eu.lelux.fi
 ric.openbld.net
-robin.techomespace.com
+rx.techomespace.com
 safe.dot.dns.yandex.net
 sandbox.opendns.com
+secondary.dns.seia.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+security.rabbitdns.org
 tls-dns-u.odvr.dns-oarc.net
 uncensored.dns.dnswarden.com
 unfiltered.adguard-dns.com
 unfiltered.dns.bebasid.com
+unfiltered.dns.momou.ch
 unicast.censurfridns.dk
 wikimedia-dns.org
 zero.dns0.eu

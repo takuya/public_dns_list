@@ -12,6 +12,7 @@ tls://comss.dns.controld.com
 tls://dandelionsprout.asuscomm.com:853
 tls://dns-dot.dnsforfamily.com
 tls://dns-tls.bitwiseshift.net
+tls://dns-tls.qis.io
 tls://dns.adguard-dns.com
 tls://dns.alidns.com
 tls://dns.bebasid.com:853
@@ -23,6 +24,8 @@ tls://dns.digitale-gesellschaft.ch
 tls://dns.google
 tls://dns.jupitrdns.com
 tls://dns.larsdebruin.net
+tls://dns.marbledfennec.net
+tls://dns.momou.ch
 tls://dns.mullvad.net
 tls://dns.neutopia.org
 tls://dns.nextdns.io
@@ -30,6 +33,7 @@ tls://dns.opendns.com
 tls://dns.oszx.co
 tls://dns.pumplex.com
 tls://dns.quad9.net
+tls://dns.seia.io
 tls://dns.switch.ch
 tls://dns10.quad9.net
 tls://dns11.quad9.net
@@ -62,6 +66,7 @@ tls://ibksturm.synology.me
 tls://internetsehat.bebasid.com:853
 tls://jp.tiar.app
 tls://kaitain.restena.lu
+tls://kids.dns.momou.ch
 tls://max.rethinkdns.com
 tls://ns1.dnsprivacy.at
 tls://ns2.dnsprivacy.at
@@ -78,12 +83,13 @@ tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
 tls://resolver-eu.lelux.fi
 tls://ric.openbld.net
-tls://robin.techomespace.com:853
 tls://safe.dot.dns.yandex.net
 tls://sandbox.opendns.com
+tls://secondary.dns.seia.io
 tls://security-filter-dns.cleanbrowsing.org
 tls://security.cloudflare-dns.com
 tls://unfiltered.adguard-dns.com
 tls://unfiltered.dns.bebasid.com:853
+tls://unfiltered.dns.momou.ch
 tls://unicast.censurfridns.dk
 tls://zero.dns0.eu

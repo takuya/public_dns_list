@@ -6,5 +6,6 @@ quic://dns.jupitrdns.com
 quic://doh.tiar.app
 quic://family.adguard-dns.com
 quic://ibksturm.synology.me
+quic://rx.techomespace.com
 quic://unfiltered.adguard-dns.com
 quic://zero.dns0.eu

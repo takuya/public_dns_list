@@ -19,6 +19,7 @@ tls://dns.bebasid.com:853
 tls://dns.bitgeek.in
 tls://dns.cfiec.net
 tls://dns.cmrg.net
+tls://dns.de.futuredns.eu.org
 tls://dns.decloudus.com
 tls://dns.digitale-gesellschaft.ch
 tls://dns.google

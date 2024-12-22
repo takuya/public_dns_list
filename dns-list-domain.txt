@@ -46,6 +46,7 @@ dns.cfiec.net
 dns.cloudflare.com
 dns.cmrg.net
 dns.controld.com
+dns.de.futuredns.eu.org
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.dnswarden.com
@@ -141,6 +142,7 @@ secondary.dns.seia.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
+sm2.doh.pub
 tls-dns-u.odvr.dns-oarc.net
 uncensored.dns.dnswarden.com
 unfiltered.adguard-dns.com

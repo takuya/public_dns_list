@@ -23,6 +23,7 @@
 2a01:4f8:1c1c:adbc::
 2a01:4f8:c0c:3bfc::2
 2a01:4f8:c0c:3c03::2
+2a01:4ff:f0:87a2::
 2a02:6b8:0:1::feed:0ff
 2a02:6b8:0:1::feed:a11
 2a02:6b8:0:1::feed:bad

@@ -36,6 +36,7 @@ tls://dns.pumplex.com
 tls://dns.quad9.net
 tls://dns.seia.io
 tls://dns.switch.ch
+tls://dns.us.futuredns.eu.org
 tls://dns10.quad9.net
 tls://dns11.quad9.net
 tls://dnsforge.de

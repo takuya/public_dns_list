@@ -67,6 +67,7 @@ dns.rabbitdns.org
 dns.seia.io
 dns.switch.ch
 dns.twnic.tw
+dns.us.futuredns.eu.org
 dns10.quad9.net
 dns11.quad9.net
 dnsforfamily.com

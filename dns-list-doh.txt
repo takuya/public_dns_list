@@ -43,6 +43,7 @@ https://dns.us.futuredns.eu.org/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dnsforge.de/dns-query
+https://doh-pure.onedns.net/dns-query
 https://doh.360.cn/dns-query
 https://doh.applied-privacy.net/query
 https://doh.cleanbrowsing.org/doh/adult-filter/
@@ -55,6 +56,7 @@ https://doh.la.ahadns.net/dns-query
 https://doh.libredns.gr/ads
 https://doh.libredns.gr/dns-query
 https://doh.nl.ahadns.net/dns-query
+https://doh.onedns.net/dns-query
 https://doh.opendns.com/dns-query
 https://doh.qis.io/dns-query
 https://doh.sandbox.opendns.com/dns-query

@@ -75,6 +75,7 @@ dnsforge.de
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
+doh-pure.onedns.net
 doh.360.cn
 doh.applied-privacy.net
 doh.cleanbrowsing.org
@@ -84,16 +85,19 @@ doh.ffmuc.net
 doh.la.ahadns.net
 doh.libredns.gr
 doh.nl.ahadns.net
+doh.onedns.net
 doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com
 doh.tiar.app
 doh.tiarap.org
+dot-pure.onedns.net
 dot.360.cn
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.onedns.net
 dot.pub
 dot.sb
 dot.seby.io

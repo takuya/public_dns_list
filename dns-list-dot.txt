@@ -42,11 +42,13 @@ tls://dns11.quad9.net
 tls://dnsforge.de
 tls://dnsovertls.sinodun.com
 tls://dnsovertls1.sinodun.com
+tls://dot-pure.onedns.net
 tls://dot.360.cn
 tls://dot.ffmuc.net
 tls://dot.la.ahadns.net
 tls://dot.libredns.gr
 tls://dot.nl.ahadns.net
+tls://dot.onedns.net
 tls://dot.pub
 tls://dot.sb
 tls://dot.seby.io

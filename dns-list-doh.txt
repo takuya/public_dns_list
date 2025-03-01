@@ -79,12 +79,15 @@ https://internetsehat.bebasid.com/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://kaitain.restena.lu/dns-query
+https://kids.ns.nwps.fi/dns-query
 https://odvr.nic.cz/doh
 https://ordns.he.net/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://public.dns.iij.jp/dns-query
+https://public.ns.nwps.fi/dns-query
 https://resolver-eu.lelux.fi/dns-query
+https://resolver.dnsprivacy.org.uk/dns-query
 https://ric.openbld.net/dns-query
 https://rx.techomespace.com/dns-query
 https://safe.dot.dns.yandex.net/dns-query

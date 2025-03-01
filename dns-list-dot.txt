@@ -71,6 +71,7 @@ tls://internetsehat.bebasid.com:853
 tls://jp.tiar.app
 tls://kaitain.restena.lu
 tls://kids.dns.momou.ch
+tls://kids.ns.nwps.fi
 tls://max.rethinkdns.com
 tls://ns1.dnsprivacy.at
 tls://ns2.dnsprivacy.at
@@ -85,7 +86,9 @@ tls://privacydns.go6lab.si
 tls://private.canadianshield.cira.ca
 tls://protected.canadianshield.cira.ca
 tls://public.dns.iij.jp
+tls://public.ns.nwps.fi
 tls://resolver-eu.lelux.fi
+tls://resolver.dnsprivacy.org.uk
 tls://ric.openbld.net
 tls://safe.dot.dns.yandex.net
 tls://sandbox.opendns.com

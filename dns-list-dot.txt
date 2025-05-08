@@ -35,6 +35,7 @@ tls://dns.oszx.co
 tls://dns.pumplex.com
 tls://dns.quad9.net
 tls://dns.seia.io
+tls://dns.surfsharkdns.com
 tls://dns.switch.ch
 tls://dns.us.futuredns.eu.org
 tls://dns10.quad9.net

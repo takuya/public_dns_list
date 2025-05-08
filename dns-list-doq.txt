@@ -4,6 +4,7 @@ quic://dns.adguard-dns.com
 quic://dns.alidns.com:853
 quic://dns.de.futuredns.eu.org
 quic://dns.jupitrdns.com
+quic://dns.surfsharkdns.com
 quic://dns.us.futuredns.eu.org
 quic://doh.tiar.app
 quic://family.adguard-dns.com

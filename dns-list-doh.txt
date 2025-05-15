@@ -15,9 +15,10 @@ https://dns.bebasid.com/dns-hagezi
 https://dns.bebasid.com/dns-oisd
 https://dns.bebasid.com/dns-query
 https://dns.bebasid.com/unfiltered
+https://dns.caliph.dev/dns-query
 https://dns.cfiec.net/dns-query
 https://dns.cloudflare.com/dns-query
-https://dns.controld.com/comss
+https://dns.comss.one/dns-query
 https://dns.de.futuredns.eu.org/dns-query/
 https://dns.decloudus.com/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
@@ -25,9 +26,6 @@ https://dns.dnswarden.com/uncensored
 https://dns.google/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.marbledfennec.net/dns-query
-https://dns.momou.ch/dns-query
-https://dns.momou.ch/dns-query/kids
-https://dns.momou.ch/dns-query/unfiltered
 https://dns.mullvad.net/dns-query
 https://dns.nextdns.io
 https://dns.oszx.co/dns-query
@@ -43,6 +41,7 @@ https://dns.us.futuredns.eu.org/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dnsforge.de/dns-query
+https://dnsguard.pub/dns-query
 https://doh-pure.onedns.net/dns-query
 https://doh.360.cn/dns-query
 https://doh.applied-privacy.net/query
@@ -89,6 +88,7 @@ https://public.ns.nwps.fi/dns-query
 https://resolver-eu.lelux.fi/dns-query
 https://resolver.dnsprivacy.org.uk/dns-query
 https://ric.openbld.net/dns-query
+https://router.comss.one/dns-query
 https://rx.techomespace.com/dns-query
 https://safe.dot.dns.yandex.net/dns-query
 https://secondary.dns.seia.io/dns-query

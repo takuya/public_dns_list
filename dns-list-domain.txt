@@ -30,7 +30,6 @@ base.dns.mullvad.net
 basic.rethinkdns.com
 cleanbrowsing.org
 common.dot.dns.yandex.net
-comss.dns.controld.com
 dandelionsprout.asuscomm.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
@@ -41,10 +40,11 @@ dns.alidns.com
 dns.arapurayil.com
 dns.bebasid.com
 dns.bitgeek.in
+dns.caliph.dev
 dns.cfiec.net
 dns.cloudflare.com
 dns.cmrg.net
-dns.controld.com
+dns.comss.one
 dns.de.futuredns.eu.org
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
@@ -53,7 +53,6 @@ dns.google
 dns.jupitrdns.com
 dns.larsdebruin.net
 dns.marbledfennec.net
-dns.momou.ch
 dns.mullvad.net
 dns.neutopia.org
 dns.nextdns.io
@@ -72,6 +71,7 @@ dns10.quad9.net
 dns11.quad9.net
 dnsforfamily.com
 dnsforge.de
+dnsguard.pub
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -122,7 +122,6 @@ internetsehat.bebasid.com
 jp.tiar.app
 jp.tiarap.org
 kaitain.restena.lu
-kids.dns.momou.ch
 kids.ns.nwps.fi
 max.rethinkdns.com
 ns1.dnsprivacy.at
@@ -143,6 +142,7 @@ public.ns.nwps.fi
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 ric.openbld.net
+router.comss.one
 rx.techomespace.com
 safe.dot.dns.yandex.net
 sandbox.opendns.com
@@ -155,7 +155,6 @@ tls-dns-u.odvr.dns-oarc.net
 uncensored.dns.dnswarden.com
 unfiltered.adguard-dns.com
 unfiltered.dns.bebasid.com
-unfiltered.dns.momou.ch
 unicast.censurfridns.dk
 v.recipes
 wikimedia-dns.org

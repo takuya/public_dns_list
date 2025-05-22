@@ -68,6 +68,7 @@ https://family.cloudflare-dns.com/dns-query
 https://family.dns.mullvad.net/dns-query
 https://family.dot.dns.yandex.net/dns-query
 https://family.rabbitdns.org/dns-query
+https://frd4wvnobp.cloudflare-gateway.com/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
 https://freedns.controld.com/p2

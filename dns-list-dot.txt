@@ -66,6 +66,7 @@ tls://family.cloudflare-dns.com
 tls://family.dns.mullvad.net
 tls://family.dot.dns.yandex.net
 tls://familyshield.opendns.com
+tls://frd4wvnobp.cloudflare-gateway.com
 tls://getdnsapi.net
 tls://hagezi.dns.bebasid.com:853
 tls://ibksturm.synology.me

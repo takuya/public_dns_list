@@ -35,6 +35,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-tls.bitwiseshift.net
 dns-tls.qis.io
+dns.18bit.cn
 dns.adguard-dns.com
 dns.alidns.com
 dns.arapurayil.com
@@ -65,7 +66,6 @@ dns.rabbitdns.org
 dns.seia.io
 dns.surfsharkdns.com
 dns.switch.ch
-dns.twnic.tw
 dns.us.futuredns.eu.org
 dns10.quad9.net
 dns11.quad9.net
@@ -76,6 +76,7 @@ dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 doh-pure.onedns.net
+doh.18bit.cn
 doh.360.cn
 doh.applied-privacy.net
 doh.cleanbrowsing.org

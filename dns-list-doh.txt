@@ -36,13 +36,13 @@ https://dns.rabbitdns.org/dns-query
 https://dns.seia.io/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://dns.switch.ch/dns-query
-https://dns.twnic.tw/dns-query
 https://dns.us.futuredns.eu.org/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dnsforge.de/dns-query
 https://dnsguard.pub/dns-query
 https://doh-pure.onedns.net/dns-query
+https://doh.18bit.cn/dns-query
 https://doh.360.cn/dns-query
 https://doh.applied-privacy.net/query
 https://doh.cleanbrowsing.org/doh/adult-filter/

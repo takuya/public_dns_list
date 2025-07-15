@@ -7,6 +7,8 @@ tls://antivirus.bebasid.com:853
 tls://anycast.censurfridns.dk
 tls://anycast.dns.nextdns.io
 tls://base.dns.mullvad.net
+tls://child-noads.joindns4.eu
+tls://child.joindns4.eu
 tls://common.dot.dns.yandex.net
 tls://dandelionsprout.asuscomm.com:853
 tls://dns-dot.dnsforfamily.com
@@ -76,6 +78,7 @@ tls://jp.tiar.app
 tls://kaitain.restena.lu
 tls://kids.ns.nwps.fi
 tls://max.rethinkdns.com
+tls://noads.joindns4.eu
 tls://ns1.dnsprivacy.at
 tls://ns2.dnsprivacy.at
 tls://odvr.nic.cz
@@ -88,6 +91,7 @@ tls://p3.freedns.controld.com
 tls://privacydns.go6lab.si
 tls://private.canadianshield.cira.ca
 tls://protected.canadianshield.cira.ca
+tls://protective.joindns4.eu
 tls://public.dns.iij.jp
 tls://public.ns.nwps.fi
 tls://resolver-eu.lelux.fi

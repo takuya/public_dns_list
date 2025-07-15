@@ -28,6 +28,8 @@ anycast.censurfridns.dk
 anycast.dns.nextdns.io
 base.dns.mullvad.net
 basic.rethinkdns.com
+child-noads.joindns4.eu
+child.joindns4.eu
 cleanbrowsing.org
 common.dot.dns.yandex.net
 dandelionsprout.asuscomm.com
@@ -126,6 +128,7 @@ jp.tiarap.org
 kaitain.restena.lu
 kids.ns.nwps.fi
 max.rethinkdns.com
+noads.joindns4.eu
 ns1.dnsprivacy.at
 ns2.dnsprivacy.at
 odvr.nic.cz
@@ -139,6 +142,7 @@ p3.freedns.controld.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
+protective.joindns4.eu
 public.dns.iij.jp
 public.ns.nwps.fi
 resolver-eu.lelux.fi
@@ -157,6 +161,7 @@ tls-dns-u.odvr.dns-oarc.net
 uncensored.dns.dnswarden.com
 unfiltered.adguard-dns.com
 unfiltered.dns.bebasid.com
+unfiltered.joindns4.eu
 unicast.censurfridns.dk
 v.recipes
 wikimedia-dns.org

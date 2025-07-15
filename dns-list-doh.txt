@@ -5,6 +5,8 @@ https://antivirus.bebasid.com/dns-query
 https://anycast.dns.nextdns.io
 https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
+https://child-noads.joindns4.eu/dns-query
+https://child.joindns4.eu/dns-query
 https://common.dot.dns.yandex.net/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
@@ -80,10 +82,12 @@ https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://kaitain.restena.lu/dns-query
 https://kids.ns.nwps.fi/dns-query
+https://noads.joindns4.eu/dns-query
 https://odvr.nic.cz/doh
 https://ordns.he.net/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
+https://protective.joindns4.eu/dns-query
 https://public.dns.iij.jp/dns-query
 https://public.ns.nwps.fi/dns-query
 https://resolver-eu.lelux.fi/dns-query
@@ -97,6 +101,7 @@ https://security.cloudflare-dns.com/dns-query
 https://security.rabbitdns.org/dns-query
 https://sm2.doh.pub/dns-query
 https://unfiltered.adguard-dns.com/dns-query
+https://unfiltered.joindns4.eu/dns-query
 https://v.recipes/dns-query
 https://wikimedia-dns.org/dns-query
 https://zero.dns0.eu/

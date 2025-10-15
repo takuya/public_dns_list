@@ -48,9 +48,9 @@ dns.cfiec.net
 dns.cloudflare.com
 dns.cmrg.net
 dns.comss.one
-dns.de.futuredns.eu.org
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
+dns.dnsguard.pub
 dns.dnswarden.com
 dns.google
 dns.jupitrdns.com
@@ -68,12 +68,10 @@ dns.rabbitdns.org
 dns.seia.io
 dns.surfsharkdns.com
 dns.switch.ch
-dns.us.futuredns.eu.org
 dns10.quad9.net
 dns11.quad9.net
 dnsforfamily.com
 dnsforge.de
-dnsguard.pub
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -94,6 +92,7 @@ doh.qis.io
 doh.sandbox.opendns.com
 doh.tiar.app
 doh.tiarap.org
+doq.ffmuc.net
 dot-pure.onedns.net
 dot.360.cn
 dot.ffmuc.net
@@ -120,6 +119,7 @@ familyshield.opendns.com
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
 getdnsapi.net
+h3://doh.ffmuc.net/dns-query
 hagezi.dns.bebasid.com
 ibksturm.synology.me
 internetsehat.bebasid.com

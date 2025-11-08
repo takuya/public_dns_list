@@ -165,3 +165,4 @@ unfiltered.joindns4.eu
 unicast.censurfridns.dk
 v.recipes
 wikimedia-dns.org
+zero.dns0.eu

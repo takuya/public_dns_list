@@ -44,6 +44,7 @@ dns.arapurayil.com
 dns.bebasid.com
 dns.bitgeek.in
 dns.caliph.dev
+dns.cert.ee
 dns.cfiec.net
 dns.cloudflare.com
 dns.cmrg.net

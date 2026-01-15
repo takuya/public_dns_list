@@ -32,7 +32,6 @@ child-noads.joindns4.eu
 child.joindns4.eu
 cleanbrowsing.org
 common.dot.dns.yandex.net
-dandelionsprout.asuscomm.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-tls.bitwiseshift.net

@@ -125,6 +125,7 @@ ibksturm.synology.me
 internetsehat.bebasid.com
 jp.tiar.app
 jp.tiarap.org
+juuri.hagezi.org
 kaitain.restena.lu
 kids.ns.nwps.fi
 max.rethinkdns.com
@@ -148,6 +149,7 @@ public.ns.nwps.fi
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 ric.openbld.net
+root.hagezi.org
 router.comss.one
 rx.techomespace.com
 safe.dot.dns.yandex.net
@@ -165,3 +167,4 @@ unfiltered.joindns4.eu
 unicast.censurfridns.dk
 v.recipes
 wikimedia-dns.org
+wurzn.hagezi.org

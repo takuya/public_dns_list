@@ -19,6 +19,7 @@
 2.dnscrypt.default.ns1.adguard.com
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
+DoH: example.ublock.dns
 ada.openbld.net
 adblock.dns.mullvad.net
 adult-filter-dns.cleanbrowsing.org

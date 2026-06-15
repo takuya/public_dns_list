@@ -195,4 +195,3 @@
 2620:ff:c000:0:1::64:25
 2803:f800:53::8
 ;; communications error to 1.1.1.1#53: timed out
-;; no servers could be reached

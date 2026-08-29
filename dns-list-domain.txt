@@ -31,6 +31,7 @@ basic.rethinkdns.com
 child-noads.joindns4.eu
 child.joindns4.eu
 cleanbrowsing.org
+cloudflare-dns.com
 common.dot.dns.yandex.net
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
@@ -42,7 +43,6 @@ dns.bebasid.com
 dns.bitgeek.in
 dns.caliph.dev
 dns.cert.ee
-dns.cloudflare.com
 dns.cmrg.net
 dns.comss.one
 dns.decloudus.com

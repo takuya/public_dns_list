@@ -20,13 +20,10 @@
 2.dnscrypt.unfiltered.ns1.adguard.com
 DoH: example.ublock.dns
 ada.openbld.net
-adblock.dns.mullvad.net
 adult-filter-dns.cleanbrowsing.org
-all.dns.mullvad.net
 antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
-base.dns.mullvad.net
 basic.rethinkdns.com
 child-noads.joindns4.eu
 child.joindns4.eu
@@ -52,7 +49,6 @@ dns.google
 dns.jupitrdns.com
 dns.larsdebruin.net
 dns.marbledfennec.net
-dns.mullvad.net
 dns.neutopia.org
 dns.nextdns.io
 dns.opendns.com
@@ -100,13 +96,11 @@ dot.seby.io
 dot.securedns.eu
 dot.tiar.app
 dot1.applied-privacy.net
-extended.dns.mullvad.net
 family-adblock.bebasid.com
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.mullvad.net
 family.dot.dns.yandex.net
 familyshield.opendns.com
 frd4wvnobp.cloudflare-gateway.com

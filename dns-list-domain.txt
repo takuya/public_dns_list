@@ -101,12 +101,15 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.dremaxx.com
 family.dot.dns.yandex.net
 familyshield.opendns.com
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
 getdnsapi.net
 h3://doh.ffmuc.net/dns-query
+h3://family.dns.dremaxx.com/dns-query
+h3://open.dns.dremaxx.com/dns-query
 hagezi.dns.bebasid.com
 ibksturm.synology.me
 internetpositif.id
@@ -122,6 +125,7 @@ ns2.dnsprivacy.at
 odvr.nic.cz
 oisd.dns.bebasid.com
 one.one.one.one
+open.dns.dremaxx.com
 ordns.he.net
 p0.freedns.controld.com
 p1.freedns.controld.com
